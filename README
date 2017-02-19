@@ -13,3 +13,9 @@ the files back to their source project. This will also make it easy for anyone
 who wants to use a Maidenhead Locator System string in their code to interface
 with it easily. Most libraries only support 4-6 character grid squares. These 
 will all support N%2=0 length grid square names.
+
+
+License
+===
+
+MIT
