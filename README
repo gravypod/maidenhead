@@ -1,0 +1,15 @@
+Maidenhead Parsers
+======
+
+
+This is a simple collection of all of the maidenhead parsers I've had to write
+for my HAM projects. For great information, check the wiki page: 
+
+https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+
+This code has gone into a few projects and I've just moved the files into here
+so anyone can point out bugs that I've made and I'll easily be able to move 
+the files back to their source project. This will also make it easy for anyone
+who wants to use a Maidenhead Locator System string in their code to interface
+with it easily. Most libraries only support 4-6 character grid squares. These 
+will all support N%2=0 length grid square names.
